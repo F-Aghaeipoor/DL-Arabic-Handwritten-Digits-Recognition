@@ -11,3 +11,5 @@ The MADBase is modified Arabic handwritten digits database contains 60,000 train
 # Training 
 
 Model Training has been be carried out in kaggle notebooks (to avoid data uploading and downloading) as can be seen in https://www.kaggle.com/fatemefateme/arabic-handwritten-digits-recognition/edit/run/59320770
+
+https://github.com/F-Aghaeipoor/Data-Science-Arabic-Handwritten-Digits-Recognition/blob/main/GUI.bmp
