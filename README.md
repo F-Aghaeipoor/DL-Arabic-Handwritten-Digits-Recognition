@@ -1,4 +1,4 @@
-# Data-Science-Arabic-Handwritten-Digits-Recognition
+# Arabic-Handwritten-Digits-Recognition
 
 # Context
 
