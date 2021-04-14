@@ -15,4 +15,4 @@ Model Training has been be carried out in kaggle notebooks (to avoid data upload
 # Testing in a GUI
 The trained model can be tested using some real handwritten digits as follows: 
 
-![alt text] (./main/GUI.bmp)
+![alt text](https://github.com/F-Aghaeipoor/Data-Science-Arabic-Handwritten-Digits-Recognition/blob/main/GUI.bmp)
