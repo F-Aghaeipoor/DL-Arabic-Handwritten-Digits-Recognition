@@ -11,4 +11,4 @@ The MADBase is modified Arabic handwritten digits database contains 60,000 train
 # Testing Recognition model in the GUI
 The trained model can be tested using some real handwritten digits as follows: 
 
-![alt text](https://github.com/F-Aghaeipoor/Data-Science-Arabic-Handwritten-Digits-Recognition/blob/main/GUI.bmp)
+![alt text](https://github.com/F-Aghaeipoor/Data-Science-Arabic-Handwritten-Digits-Recognition/blob/main/Sources/GUI.bmp)
